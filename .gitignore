@@ -1,0 +1,21 @@
+/bin
+/build
+*.log
+/Reports
+/RunReports
+/logs
+/target
+/aws
+/rerun
+
+#Eclipse
+/.settings
+.classpath
+.project
+
+#Intellij
+*.iml
+/.idea
+
+#Mac OS
+*.DS_Store
